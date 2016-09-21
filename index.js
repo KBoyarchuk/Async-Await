@@ -33,4 +33,3 @@ async(function* () {
     console.log(e.message);
   }
 });
-console.log("Hello moron");
